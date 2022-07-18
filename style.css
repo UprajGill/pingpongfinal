@@ -1,0 +1,15 @@
+.left{
+text-align: left;
+}
+.instructions{
+float:right;
+}
+canvas{
+text-align: center;
+border: black solid 5px;
+border-radius:25px ;
+}
+.heading{
+width: 100%;
+display: inline-block;
+}
